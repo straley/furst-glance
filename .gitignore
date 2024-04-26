@@ -1,0 +1,6 @@
+tmp/
+*.mp4
+*.mp3
+*.aup3
+venv/
+video-assets/

@@ -1,0 +1,15 @@
+Script-Fu server initialized and listening...
+Server: connect from host 127.0.0.1, port 34120.
+Error in script-fu command transmission.
+Server: disconnect from host 127.0.0.1.
+Server: connect from host 127.0.0.1, port 60496.
+Error in script-fu command transmission.
+Server: disconnect from host 127.0.0.1.
+Server: connect from host 127.0.0.1, port 51700.
+Error in script-fu command transmission.
+Server: disconnect from host 127.0.0.1.
+Server: connect from host 127.0.0.1, port 52158.
+Error in script-fu command transmission.
+Server: disconnect from host 127.0.0.1.
+Server: connect from host 127.0.0.1, port 42300.
+Server: disconnect from host 127.0.0.1.
