@@ -54,7 +54,8 @@ def create_video(image_folder, output_file, target_length, fps=30):
         img = cv2.resize(img, (resized_width, resized_height), interpolation=cv2.INTER_AREA)
 
         # Adjust image color
-        img = adjust_image_colors(img)
+        if img_name.endswith('A.png') or img_name.endswith('B.png') or img_name.endswith('C.png') or img_name.endswith('D.png') or img_name.endswith('E.png') or img_name.endswith('F.png'):
+            img = adjust_image_colors(img)
 
         # Calculate the proper offsets for each column
         x_offset = border if i % 2 == 0 else resized_width + 2 * border  # Adjust for two columns
@@ -69,8 +70,16 @@ def create_video(image_folder, output_file, target_length, fps=30):
     total_number_of_frames = target_length * fps
     scroll_rate = total_scroll_distance / total_number_of_frames if total_number_of_frames else 1
 
+    # scroll_fraction = 0
+    int_scroll_rate = int(scroll_rate)
     # Scroll through the full_image to create frames
-    for i in range(0, column_height - target_cell_size, int(scroll_rate)):  # Smaller step for smoother scrolling
+    for i in range(0, column_height - target_cell_size, int_scroll_rate):
+        # scroll_fraction += scroll_rate - int_scroll_rate
+        # offset = 0 if scroll_fraction < 1 else 1
+        # if scroll_fraction >= 1:
+        #     scroll_fraction -= 1
+         
+        # frame = full_image[i:i+target_cell_size+offset, :]
         frame = full_image[i:i+target_cell_size, :]
         out.write(frame)
 
@@ -114,5 +123,5 @@ def rotate_and_crop_video(input_file, output_file, fps=30):
     print(f'Video saved as {output_file}')
 
 # Usage
-create_video('./video-assets/final', 'output1.mp4', 210)
+create_video('./video-assets/final', 'output1.mp4', 268)
 rotate_and_crop_video('output1.mp4', 'output2.mp4')

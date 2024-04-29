@@ -64,8 +64,8 @@
 [*] [127-B] feed - bronies
 [*] [130-A] feed - normiecon
 [*] [130-B] feed - normiecon
-[/] [133-A] feed - fur / scales
-[/] [133-B] feed - feathers / paws
+[*] [133-A] feed - fur / scales
+[*] [133-B] feed - feathers / paws
 [*] [136-A] feed - paws with claws
 [*] [136-B] feed - paws with claws
 [*] [139-A] feed - maker
@@ -142,51 +142,51 @@
 [*] [324-B] feed - furry asleep in car
 [*] [327-A] feed - furry skinny dipping
 [*] [327-B] feed - furry being shown out by security
-[ ] [330-A] feed - furries gathering
-[ ] [330-B] feed - furries gathering
-[ ] [333-A] feed - furries holding hands
-[ ] [333-B] feed - paws holding paws
-[ ] [336-A] feed - furries holding hands wide show
-[ ] [336-B] feed - furries holding hands wide show
-[ ] [339-A] feed - furries holding hands very wide show
-[ ] [339-B] feed - furries holding hands very wide show
+[*] [330-A] feed - furries gathering
+[*] [330-B] feed - furries gathering
+[*] [333-A] feed - furries holding hands
+[*] [333-B] feed - paws holding paws
+[*] [336-A] feed - furries holding hands wide show
+[*] [336-B] feed - furries holding hands wide show
+[*] [339-A] feed - furries holding hands very wide show
+[*] [339-B] feed - furries holding hands very wide show
 [*] [342-A] feed - furs 
-[ ] [342-B] feed - scales
+[*] [342-B] feed - scales
 [*] [345-A] feed - feathers
 [*] [345-B] feed - paws
-[ ] [348-A] feed - destroyed hotel room
-[ ] [348-B] feed - furry siting alone with head off on side of road
-[ ] [351-A] feed - furries shouting
-[ ] [351-B] feed - hospital exterior
+[*] [348-A] feed - destroyed hotel room
+[*] [348-B] feed - furry siting alone with head off on side of road
+[*] [351-A] feed - furries shouting
+[*] [351-B] feed - hospital exterior
 [*] [354-A] perrin - singing into mic
-[ ] [354-B] feed - artist holding up artwork
-[ ] [357-A] feed - person pulling fursuit from box
-[ ] [357-B] feed - dealers den table
-[ ] [400-A] feed - fursuit parade
-[ ] [400-B] feed - group portrait
+[*] [354-B] feed - artist holding up artwork
+[*] [357-A] feed - person pulling fursuit from box
+[*] [357-B] feed - dealers den table
+[*] [400-A] feed - fursuit parade
+[*] [400-B] feed - group portrait
 [*] [403-A] feed - new york
 [*] [403-B] feed - pittsburgh
-[ ] [406-A] feed - san antonio
+[*] [406-A] feed - san antonio
 [*] [406-B] feed - chicago
 [*] [409-A] feed - london
-[ ] [409-B] feed - berlin
-[ ] [412-A] feed - cat meme
-[ ] [412-B] feed - roar
-[ ] [415-A] feed - lions
-[ ] [415-B] feed - herd
+[*] [409-B] feed - berlin
+[*] [412-A] feed - cat meme
+[*] [412-B] feed - roar
+[*] [415-A] feed - lions
+[*] [415-B] feed - herd
 [*] [418-A] feed - large gathering
-[ ] [418-B] feed - furries dancing
+[*] [418-B] feed - furries dancing
 [*] [421-A] feed - furries disco
-[ ] [421-B] feed - furry glowing
-[ ] [424-A] feed - black / white fursuiters holding removed heads
-[ ] [424-B] feed - two female furries kissing
-[ ] [427-A] feed - cat and dog holding hands
-[ ] [427-B] feed - hispanic/ asian fursuiter holding removed heads
-[ ] [430-A] feed - human and furry holding hands
-[ ] [430-B] feed - pup and femboy holding hands
-[ ] [433-A] feed - protogen and sloth holding hands
-[ ] [433-B] feed - red panda and panther holding hands
-[ ] [436-A] feed - transgender furry
-[ ] [436-B] feed - wheelchair furry
-[ ] [439-A] feed - child furry
-[ ] [439-B] feed - old woman furry
+[*] [421-B] feed - furry glowing
+[*] [424-A] feed - black / white fursuiters holding removed heads
+[*] [424-B] feed - two female furries kissing
+[*] [427-A] feed - cat and dog holding hands
+[*] [427-B] feed - hispanic/ asian fursuiter holding removed heads
+[*] [430-A] feed - human and furry holding hands
+[*] [430-B] feed - pup and femboy holding hands
+[*] [433-A] feed - protogen and sloth holding hands
+[*] [433-B] feed - red panda and panther holding hands
+[*] [436-A] feed - transgender furry
+[*] [436-B] feed - wheelchair furry
+[*] [439-A] feed - child furry
+[*] [439-B] feed - old woman furry
